@@ -59,4 +59,5 @@ Zaman serisi analizleri dahil edilebilir.
 Derin öğrenme algoritmaları ile daha ileri tahminleme denenebilir.
 
 
-Kaggle: https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
+Kaggle dataset: https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
+Kaggle notebook: https://www.kaggle.com/code/senanurmekikolu/airbnb-3
