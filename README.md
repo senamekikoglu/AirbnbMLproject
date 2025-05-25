@@ -57,3 +57,6 @@ Daha fazla özellik mühendisliği yapılabilir.
 Zaman serisi analizleri dahil edilebilir.
 
 Derin öğrenme algoritmaları ile daha ileri tahminleme denenebilir.
+
+
+Kaggle: https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
